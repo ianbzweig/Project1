@@ -1,0 +1,67 @@
+span{
+  display:inline-block;
+  margin: 0 auto;
+}
+
+.button{
+  cursor: pointer;
+  color: black;
+  border:2px solid;
+  width:100px;
+  height:20px;
+  text-align: center;
+  padding: 4px 0 4px 0;
+  margin: 35px 0 0px 0;
+  background-color: black;
+  color: white;
+  font-family: helvetica;
+}
+
+#ludicrousSpeed{
+  margin-bottom:35px;
+}
+
+
+#btns{
+  width: 200px;
+  height: 400px;
+  margin: 12% 0% 0 15%;
+  vertical-align: top;
+
+}
+
+#btns2{
+  width:200px;
+  height:400px;
+  vertical-align: top;
+  margin-top:33%;
+  margin-left: 10%;
+  position: absolute;
+}
+
+#b-img{
+  position: relative;
+  width: 1080px;
+  height: 660px;
+  background-image: url('http://i.imgur.com/I73OWYX.jpg');
+  margin: 1%;
+  margin-right: auto;
+  margin-left: auto;
+  }
+
+#cardImg{
+  width:280px;
+  height:400px;
+  margin-top: 45%;
+}
+
+#startBtn{
+
+}
+
+#countTracker{
+  font-family:helvetica;
+  font-size:35px;
+  color:red;
+}
+
